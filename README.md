@@ -6,19 +6,19 @@ Instead of learning functions only through theory, this repository applies every
 
 ---
 
-## 📖 About
+# 📖 About
 
 This repository covers Python function fundamentals, including:
 
-- Function Definition
-- Function Calling
-- Parameters & Arguments
-- Default Parameters
-- Keyword Arguments
-- Return Statement
-- Function Composition
-- Modular Programming
-- Conditional Statements with Functions
+* Function Definition
+* Function Calling
+* Parameters & Arguments
+* Default Parameters
+* Keyword Arguments
+* Return Statement
+* Function Composition
+* Modular Programming
+* Conditional Statements with Functions
 
 Each concept is reinforced through real-world mini projects.
 
@@ -42,6 +42,9 @@ Python-Functions-Mastery
 ├── Mini Project 4
 │   └── Library Book Management System
 │
+├── Mini Project 5
+│   └── Movie Ticket Booking System
+│
 └── README.md
 ```
 
@@ -55,18 +58,18 @@ A simple project demonstrating basic function creation and function calling.
 
 ### Features
 
-- Welcome Message
-- Good Morning
-- Good Afternoon
-- Good Evening
-- Thank You Message
-- Reusable Functions
+* Welcome Message
+* Good Morning
+* Good Afternoon
+* Good Evening
+* Thank You Message
+* Reusable Functions
 
 ### Concepts
 
-- Functions
-- Function Calling
-- Code Reusability
+* Functions
+* Function Calling
+* Code Reusability
 
 ---
 
@@ -76,19 +79,19 @@ A student management application built using multiple functions.
 
 ### Features
 
-- Student Profile
-- Marks Calculation
-- Percentage Calculation
-- Grade Calculation
-- Result Status (Pass/Fail)
+* Student Profile
+* Marks Calculation
+* Percentage Calculation
+* Grade Calculation
+* Result Status (Pass/Fail)
 
 ### Concepts
 
-- Functions
-- Parameters
-- Return Values
-- Conditional Statements
-- Function Calling
+* Functions
+* Parameters
+* Return Statement
+* Conditional Statements
+* Function Calling
 
 ---
 
@@ -98,19 +101,19 @@ A banking application demonstrating modular programming.
 
 ### Features
 
-- Customer Profile
-- Deposit Money
-- Withdraw Money
-- Account Status
-- Updated Balance
-- Master Function
+* Customer Profile
+* Deposit Money
+* Withdraw Money
+* Account Status
+* Updated Balance
+* Master Function
 
 ### Concepts
 
-- Modular Programming
-- Function Chaining
-- Conditional Statements
-- Parameters
+* Modular Programming
+* Function Chaining
+* Conditional Statements
+* Parameters
 
 ---
 
@@ -120,65 +123,96 @@ A payroll application that calculates employee salaries.
 
 ### Features
 
-- Employee Profile
-- Salary Calculation
-- HRA Calculation
-- DA Calculation
-- Gross Salary
-- Tax Calculation
-- Net Salary
-- Employee Grade
-- Payroll Report
+* Employee Profile
+* Salary Calculation
+* HRA Calculation
+* DA Calculation
+* Gross Salary
+* Tax Calculation
+* Net Salary
+* Employee Grade
+* Payroll Report
 
 ### Concepts
 
-- Multiple Return Values
-- Function Composition
-- Conditional Statements
-- Modular Design
+* Multiple Return Values
+* Function Composition
+* Conditional Statements
+* Modular Design
 
 ---
 
 ## 📚 Mini Project 4 – Library Book Management System
 
-A simple library management application.
+A library management application demonstrating modular programming using Python functions.
 
 ### Features
 
-- Book Details
-- Discount Calculation
-- Final Price
-- Book Category
-- Modular Function Design
+* Book Details
+* Discount Calculation
+* Final Price Calculation
+* Book Category Classification
+* Master Function
+* Modular Function Design
 
 ### Concepts
 
-- Functions
-- Return Statement
-- Conditional Statements
-- Function Reusability
+* Functions
+* Return Statement
+* Conditional Statements
+* Function Reusability
+* Modular Programming
+
+---
+
+## 🎬 Mini Project 5 – Movie Ticket Booking System
+
+A movie ticket booking application that automates ticket billing using Python functions.
+
+### Features
+
+* Customer Details
+* Movie Information
+* Ticket Price Calculation
+* Total Bill Calculation
+* Discount Calculation
+* Final Bill Generation
+* Booking Status (VIP / Premium / Regular)
+* Complete Booking Report
+* Master Function
+
+### Concepts
+
+* Functions
+* Parameters
+* Return Statement
+* Function Chaining
+* Conditional Statements
+* Modular Programming
+* Real-World Problem Solving
 
 ---
 
 # 🛠 Technologies Used
 
-- Python 3
+* Python 3
 
 ---
 
 # 📚 Python Concepts Covered
 
-- Function Definition
-- Function Calling
-- Parameters
-- Positional Arguments
-- Keyword Arguments
-- Default Arguments
-- Return Statement
-- Multiple Return Values
-- Nested Function Calls
-- Conditional Statements
-- Modular Programming
+* Function Definition
+* Function Calling
+* Parameters
+* Positional Arguments
+* Keyword Arguments
+* Default Arguments
+* Return Statement
+* Multiple Return Values
+* Nested Function Calls
+* Function Chaining
+* Conditional Statements
+* Modular Programming
 
 ---
 
@@ -186,45 +220,64 @@ A simple library management application.
 
 By completing these projects, I learned how to:
 
-- Write reusable functions
-- Pass data using parameters
-- Return values from functions
-- Build modular applications
-- Break large problems into smaller functions
-- Apply Python fundamentals to real-world scenarios
+* Design reusable functions.
+* Pass data efficiently using parameters.
+* Return values for further processing.
+* Build modular and maintainable applications.
+* Break large problems into smaller reusable functions.
+* Apply Python fundamentals to real-world scenarios.
+* Improve problem-solving through project-based learning.
 
 ---
 
 # 🚀 Future Improvements
 
-- File Handling
-- Exception Handling
-- Object-Oriented Programming
-- Database Integration
-- Menu-Driven Applications
-- User Input Validation
+* File Handling
+* Exception Handling
+* Object-Oriented Programming (OOP)
+* Database Integration
+* Menu-Driven Applications
+* User Input Validation
+* Data Persistence
+* Advanced Python Projects
 
 ---
 
 # 📈 Repository Progress
 
 ```text
-Functions                 ██████████ 100%
+Functions                     ██████████ 100%
 
-Mini Projects             ██████████ 100%
+Mini Projects                 ██████████ 100%
 
-File Handling             ░░░░░░░░░░
+File Handling                 ░░░░░░░░░░
 
-Exception Handling        ░░░░░░░░░░
+Exception Handling            ░░░░░░░░░░
 
-Object-Oriented Programming ░░░░░░░░░░
+Object-Oriented Programming   ░░░░░░░░░░
+
+Modules & Packages            ░░░░░░░░░░
 ```
+
+---
+
+# 🎯 Repository Goals
+
+* ✅ Master Python Functions
+* ✅ Build Real-World Mini Projects
+* 🔄 Learn File Handling
+* 🔄 Learn Exception Handling
+* 🔄 Master Object-Oriented Programming
+* 🔄 Build Advanced Python Applications
+* 🎯 Strengthen Python for Data Analytics
 
 ---
 
 # 🤝 Contributions
 
-This repository is part of my Python learning journey. Suggestions and improvements are always welcome.
+This repository documents my Python learning journey through practical projects.
+
+Suggestions, improvements, and constructive feedback are always welcome.
 
 ---
 
@@ -238,8 +291,12 @@ This repository is part of my Python learning journey. Suggestions and improveme
 
 📊 Aspiring Data Analyst
 
-🚀 Learning through Real Projects
+🚀 Learning Through Real Projects
 
 ---
 
-## ⭐ If you found this repository helpful, consider giving it a star!
+## ⭐ Support
+
+If you found this repository helpful, consider giving it a **⭐ Star** on GitHub.
+
+It motivates me to continue building more Python projects and sharing my learning journey.
