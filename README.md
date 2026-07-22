@@ -1,8 +1,8 @@
 # 🐍 Python Functions Mastery
 
-A beginner-friendly Python repository focused on mastering **functions** through hands-on coding exercises and real-world mini projects.
+A beginner-friendly Python repository focused on mastering **Python functions** through hands-on coding exercises and real-world mini projects.
 
-Instead of learning functions only through theory, this repository applies every concept to practical programs, helping build a strong programming foundation.
+Instead of learning functions only through theory, this repository applies every concept to practical programs, helping build a strong programming foundation and preparing for advanced Python and Data Analytics.
 
 ---
 
@@ -15,12 +15,14 @@ This repository covers Python function fundamentals, including:
 * Parameters & Arguments
 * Default Parameters
 * Keyword Arguments
+* Variable-Length Arguments (`*args`)
 * Return Statement
 * Function Composition
+* Function Chaining
 * Modular Programming
 * Conditional Statements with Functions
 
-Each concept is reinforced through real-world mini projects.
+Each concept is reinforced through practical mini projects.
 
 ---
 
@@ -45,6 +47,9 @@ Python-Functions-Mastery
 ├── Mini Project 5
 │   └── Movie Ticket Booking System
 │
+├── Mini Project 6
+│   └── Student Marks Analyzer
+│
 └── README.md
 ```
 
@@ -54,7 +59,7 @@ Python-Functions-Mastery
 
 ## 📨 Mini Project 1 – Utility Message Generator
 
-A simple project demonstrating basic function creation and function calling.
+A simple project demonstrating basic function creation and reusable functions.
 
 ### Features
 
@@ -138,7 +143,7 @@ A payroll application that calculates employee salaries.
 * Multiple Return Values
 * Function Composition
 * Conditional Statements
-* Modular Design
+* Modular Programming
 
 ---
 
@@ -153,14 +158,12 @@ A library management application demonstrating modular programming using Python 
 * Final Price Calculation
 * Book Category Classification
 * Master Function
-* Modular Function Design
 
 ### Concepts
 
 * Functions
 * Return Statement
 * Conditional Statements
-* Function Reusability
 * Modular Programming
 
 ---
@@ -193,6 +196,35 @@ A movie ticket booking application that automates ticket billing using Python fu
 
 ---
 
+## 📊 Mini Project 6 – Student Marks Analyzer
+
+A student performance analyzer built using **variable-length arguments (`*args`)** and modular functions.
+
+### Features
+
+* Student Marks Report
+* Total Subjects
+* Total Marks Calculation
+* Highest Marks
+* Lowest Marks
+* Average Calculation
+* Grade Evaluation
+* Complete Student Report
+
+### Concepts
+
+* Variable-Length Arguments (`*args`)
+* Functions
+* Parameters
+* Return Statement
+* Loops
+* Conditional Statements
+* Aggregation (Total & Average)
+* Maximum & Minimum Value Calculation
+* Modular Programming
+
+---
+
 # 🛠 Technologies Used
 
 * Python 3
@@ -207,11 +239,13 @@ A movie ticket booking application that automates ticket billing using Python fu
 * Positional Arguments
 * Keyword Arguments
 * Default Arguments
+* Variable-Length Arguments (`*args`)
 * Return Statement
 * Multiple Return Values
 * Nested Function Calls
 * Function Chaining
 * Conditional Statements
+* Loops with Functions
 * Modular Programming
 
 ---
@@ -222,11 +256,12 @@ By completing these projects, I learned how to:
 
 * Design reusable functions.
 * Pass data efficiently using parameters.
+* Work with variable-length arguments (`*args`).
 * Return values for further processing.
 * Build modular and maintainable applications.
 * Break large problems into smaller reusable functions.
-* Apply Python fundamentals to real-world scenarios.
-* Improve problem-solving through project-based learning.
+* Apply loops and conditional logic inside functions.
+* Solve real-world problems through project-based learning.
 
 ---
 
@@ -246,17 +281,19 @@ By completing these projects, I learned how to:
 # 📈 Repository Progress
 
 ```text
-Functions                     ██████████ 100%
+Functions                         ██████████ 100%
 
-Mini Projects                 ██████████ 100%
+Mini Projects                     ██████████ 100%
 
-File Handling                 ░░░░░░░░░░
+Variable-Length Arguments         ██████████ 100%
 
-Exception Handling            ░░░░░░░░░░
+File Handling                     ░░░░░░░░░░
 
-Object-Oriented Programming   ░░░░░░░░░░
+Exception Handling                ░░░░░░░░░░
 
-Modules & Packages            ░░░░░░░░░░
+Object-Oriented Programming       ░░░░░░░░░░
+
+Modules & Packages                ░░░░░░░░░░
 ```
 
 ---
@@ -265,6 +302,8 @@ Modules & Packages            ░░░░░░░░░░
 
 * ✅ Master Python Functions
 * ✅ Build Real-World Mini Projects
+* ✅ Learn Function Chaining
+* ✅ Practice Modular Programming
 * 🔄 Learn File Handling
 * 🔄 Learn Exception Handling
 * 🔄 Master Object-Oriented Programming
@@ -275,7 +314,7 @@ Modules & Packages            ░░░░░░░░░░
 
 # 🤝 Contributions
 
-This repository documents my Python learning journey through practical projects.
+This repository documents my Python learning journey through practical, project-based learning.
 
 Suggestions, improvements, and constructive feedback are always welcome.
 
