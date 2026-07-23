@@ -15,7 +15,7 @@ This repository covers Python function fundamentals, including:
 * Parameters & Arguments
 * Default Parameters
 * Keyword Arguments
-* Variable-Length Arguments (`*args`)
+* Variable-Length Arguments (`*args` & `**kwargs`)
 * Return Statement
 * Function Composition
 * Function Chaining
@@ -25,10 +25,7 @@ This repository covers Python function fundamentals, including:
 Each concept is reinforced through practical mini projects.
 
 ---
-
-# 📂 Repository Structure
-
-```text
+```
 Python-Functions-Mastery
 │
 ├── Mini Project 1
@@ -49,6 +46,9 @@ Python-Functions-Mastery
 │
 ├── Mini Project 6
 │   └── Student Marks Analyzer
+│
+├── Mini Project 7
+│   └── Student Performance Management System
 │
 └── README.md
 ```
@@ -210,6 +210,29 @@ A student performance analyzer built using **variable-length arguments (`*args`)
 * Average Calculation
 * Grade Evaluation
 * Complete Student Report
+ ## 📈 Mini Project 7 – Student Performance Management System
+
+A complete student performance evaluation system built using modular functions, variable-length arguments (`*args`), keyword arguments (`**kwargs`), and function chaining.
+
+### Features
+
+- Student Information
+- Subject-wise Marks
+- Total Marks Calculation
+- Average Calculation
+- Grade Evaluation
+- Complete Student Performance Report
+
+### Concepts
+
+- Functions
+- Function Chaining
+- `*args`
+- `**kwargs`
+- Multiple Return Values
+- Conditional Statements
+- Loops
+- Modular Programming
 
 ### Concepts
 
@@ -256,7 +279,7 @@ By completing these projects, I learned how to:
 
 * Design reusable functions.
 * Pass data efficiently using parameters.
-* Work with variable-length arguments (`*args`).
+* Work with variable-length arguments (`*args` & `**kwargs`).
 * Return values for further processing.
 * Build modular and maintainable applications.
 * Break large problems into smaller reusable functions.
@@ -285,7 +308,13 @@ Functions                         ██████████ 100%
 
 Mini Projects                     ██████████ 100%
 
-Variable-Length Arguments         ██████████ 100%
+Function Chaining                 ██████████ 100%
+
+*args                             ██████████ 100%
+
+**kwargs                          ██████████ 100%
+
+Multiple Return Values            ██████████ 100%
 
 File Handling                     ░░░░░░░░░░
 
